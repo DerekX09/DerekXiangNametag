@@ -8,5 +8,5 @@ println "Width is"+width
 println "Height is"+height
 println "depth is"+depth
 
-CSG nameTagBase=newCube(width, height, depth).toCSG()
-return name TagBase
+CSG nameTagBase=new Cube(width, height, depth).toCSG()
+return nameTagBase
